@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MainActivity</string>
+    <string name="cert_prompt">Choose a Grade</string>
+
+    <string-array name="cert_arrays">
+        <item>UEC</item>
+        <item>O Levels</item>
+        <item>SPM</item>
+    </string-array>
+
+    <string name="subject_prompt">Choose a Grade</string>
+
+    <string-array name="subject_arrays">
+        <item>Bahasa Malaysia</item>
+        <item>Bahasa English</item>
+        <item>Bahasa China </item>
+        <item>Mathematics</item>
+        <item>Science</item>
+        <item>Sejarah</item>
+        <item>Pendidikan Moral</item>
+        <item>Geographic</item>
+        <item>Accounts</item>
+    </string-array>
+
+    <string name="grade_prompt">Choose a Grade</string>
+
+    <string-array name="grade_arrays">
+        <item>Grade A</item>
+        <item>Grade B</item>
+        <item>Grade C</item>
+        <item>Grade D</item>
+        <item>Grade E</item>
+    </string-array>
+
+
+</resources>
